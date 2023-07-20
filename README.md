@@ -1,5 +1,5 @@
 # Supervised-Machine-Learning-Regression-and-Classification-Andrew-Ng
-These are my assignments for Andrew Ng's Supervised Machine Learning: Regression and Classification course.
+These are my solutions to assignments of Andrew Ng's Supervised Machine Learning: Regression and Classification course.
 
 week 2 file consists of Linear Regression, Multiple variable Regression, Numpy, and Vectorization assignments.
 
